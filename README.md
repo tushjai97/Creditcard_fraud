@@ -1,2 +1,2 @@
 # Creditcard_fraud
-Using Classification to identify fraud in Credit Card transactions
+Using Classification to identify fraud in Credit Card transactions. This was a highly unbalanced dataset with the ratio between genuine and fraud transaction being 99:1. Performed undersampling to make subsample with equal number of fraud and genuine transaction. This helps the model to train and find patterns on both the classes. Compared performances of logistic regression, K-nearest neigbours and Supprt vector machines. Trained the models with cross validation to reduce the chances of overfitting. 
